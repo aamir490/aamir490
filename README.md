@@ -1,21 +1,17 @@
 <h1 align="center">Hi 👋, I'm Aamir Imran</h1>
 
-<h3 align="center">AWS Generative AI Engineer | Agentic AI | MLOps | DevOps</h3>
+<h3 align="center">
+AWS Generative AI Engineer | Agentic AI | MLOps | DevOps
+</h3>
 
 <p align="center">
-  Building, deploying, and operating production-oriented Generative AI and Agentic AI applications on AWS.
+Building and deploying Generative AI, Agentic AI, and cloud-native applications on AWS.
 </p>
 
 <p align="center">
-  <a href="https://github.com/aamir490">
-    <img src="https://img.shields.io/badge/GitHub-aamir490-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  <a href="https://linkedin.com/in/aamir-imran">
-    <img src="https://img.shields.io/badge/LinkedIn-Aamir%20Imran-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:aamirimran49000@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail" alt="Email"/>
-  </a>
+<a href="mailto:aamirimran49000@gmail.com">📧 Email</a> •
+<a href="https://github.com/aamir490">💻 GitHub</a> •
+<a href="https://www.linkedin.com/in/aamir-imran">🔗 LinkedIn</a>
 </p>
 
 ---
@@ -24,7 +20,7 @@
 
 I'm an **AWS Generative AI Engineer** focused on building, deploying, and operating modern AI applications.
 
-My primary areas of focus are:
+My technical focus includes:
 
 * 🤖 Generative AI & Agentic AI
 * 🧠 Multi-Agent AI Systems
@@ -49,80 +45,38 @@ I bring together **cloud engineering, DevOps/MLOps practices, and AI application
 
 ---
 
-## 🚀 What I Build
-
-* 🤖 Agentic AI & Multi-Agent Systems
-* 📚 RAG & Knowledge-Based AI Applications
-* 🧾 AI Document Intelligence
-* 📊 Real-Time AI Analytics
-* ☁️ Cloud-Native AI Applications on AWS
-* ⚙️ MLOps & AI Deployment Pipelines
-* 🔄 CI/CD Workflows for AI Applications
-
----
-
 ## 🤖 Generative AI & Agentic AI
 
-<p align="center">
+I work with technologies and concepts across the modern AI application stack:
 
-<img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge" alt="Generative AI"/>
-<img src="https://img.shields.io/badge/Agentic%20AI-0A66C2?style=for-the-badge" alt="Agentic AI"/>
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" alt="LangGraph"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" alt="LangChain"/>
-<img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge" alt="RAG"/>
-<img src="https://img.shields.io/badge/LLMs-6A1B9A?style=for-the-badge" alt="LLMs"/>
+`LLMs` • `Generative AI` • `Agentic AI` • `Multi-Agent Systems` • `RAG` • `AI Agents` • `LangGraph` • `LangChain` • `Prompt Engineering` • `AI Workflows` • `AI Automation`
 
-</p>
+### Areas of Focus
 
-`LLMs` • `Agentic AI` • `Multi-Agent Systems` • `RAG` • `AI Agents` • `Prompt Engineering` • `AI Workflows` • `AI Automation`
+* Multi-agent orchestration
+* Agentic AI workflows
+* Retrieval-Augmented Generation
+* LLM-powered applications
+* AI-powered automation
+* AI application deployment
+* AI evaluation and observability
+* Production-oriented GenAI architectures
 
 ---
 
 ## ☁️ AWS & Cloud
 
-<p align="center">
+I use AWS to build and deploy scalable AI and cloud-native applications.
 
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws" alt="AWS"/>
-<img src="https://img.shields.io/badge/ECS%20Fargate-FF9900?style=for-the-badge&logo=amazonaws" alt="ECS Fargate"/>
-<img src="https://img.shields.io/badge/ECR-FF9900?style=for-the-badge&logo=amazonaws" alt="ECR"/>
-<img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3" alt="S3"/>
-<img src="https://img.shields.io/badge/CloudFront-FF9900?style=for-the-badge&logo=amazonaws" alt="CloudFront"/>
-<img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda" alt="Lambda"/>
-<img src="https://img.shields.io/badge/Bedrock-FF9900?style=for-the-badge&logo=amazonaws" alt="Amazon Bedrock"/>
-<img src="https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazonaws" alt="CloudFormation"/>
+### AWS Services & Technologies
 
-</p>
-
-### AWS Compute & Application
-
-`ECS` • `Fargate` • `ECR` • `Lambda` • `API Gateway`
-
-### AWS AI / ML
-
-`Amazon Bedrock` • `Amazon Textract`
-
-### AWS Storage & Data
-
-`S3` • `DynamoDB` • `Kinesis` • `OpenSearch Serverless`
-
-### AWS Infrastructure & Observability
-
-`CloudFront` • `CloudFormation` • `AWS CDK` • `IAM` • `VPC` • `CloudWatch` • `X-Ray`
+`ECS` • `Fargate` • `ECR` • `S3` • `CloudFront` • `Lambda` • `API Gateway` • `DynamoDB` • `Bedrock` • `Textract` • `Step Functions` • `SQS` • `SNS` • `EventBridge` • `Kinesis` • `Managed Service for Apache Flink` • `OpenSearch Serverless` • `CloudFormation` • `AWS CDK` • `IAM` • `VPC` • `CloudWatch` • `X-Ray`
 
 ---
 
 ## 🛠️ DevOps & MLOps
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
-<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/>
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-
-</p>
+My DevOps and MLOps foundation supports the development and deployment of production-oriented AI applications.
 
 `Docker` • `Kubernetes` • `Jenkins` • `Ansible` • `Linux` • `Git` • `GitHub Actions` • `CI/CD` • `Monitoring` • `Cloud Deployment`
 
@@ -130,41 +84,30 @@ I bring together **cloud engineering, DevOps/MLOps practices, and AI application
 
 ## 💻 Programming & Development
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express" alt="Express"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" alt="SQL"/>
-
-</p>
-
-`Python` • `JavaScript` • `Node.js` • `Express` • `React` • `SQL`
+`Python` • `JavaScript` • `SQL` • `Node.js` • `Express` • `React` • `TypeScript`
 
 ---
 
-## 🗄️ Databases & Data Platforms
+## 🗄️ Databases & Data
 
-`MongoDB` • `Redis` • `DynamoDB` • `Qdrant` • `OpenSearch` • `Apache Flink` • `Kinesis`
+`MongoDB` • `Redis` • `DynamoDB` • `Qdrant` • `OpenSearch`
 
 ---
 
 # 🚀 Featured Projects
 
-## 🧠 01 — NovaMind AI: LangGraph Multi-Agent AWS Platform
+## 🧠 1. NovaMind AI — LangGraph Multi-Agent AWS Platform
 
-A full-stack **Agentic AI platform** built with LangGraph and deployed using AWS cloud infrastructure.
+A full-stack **Agentic AI platform** built with LangGraph and deployed on AWS.
 
-The platform combines multiple specialized AI agents into a single AI workspace supporting chat, coding, web search, vision, PDF RAG, document generation, image generation, and more.
+The platform combines multiple specialized AI agents into a single workspace for chat, coding, web search, vision, PDF RAG, document generation, image generation, and other AI-powered workflows.
 
-### ✨ Key Capabilities
+### Key Capabilities
 
 * 🤖 Multi-agent AI workflows
 * 🗨️ AI chat
 * 🔍 Web search
-* 💻 Coding assistance
+* 💻 Code generation
 * 📚 PDF RAG
 * 🖼️ Image analysis
 * 🎨 Image generation
@@ -175,92 +118,86 @@ The platform combines multiple specialized AI agents into a single AI workspace 
 * 👑 Admin dashboard
 * 💾 Conversation history
 
-### 🧩 Technology
+### Technology
 
 `React` • `Node.js` • `Express` • `LangGraph` • `MongoDB` • `Redis` • `Qdrant` • `Docker`
 
-### ☁️ AWS Deployment
+### AWS Deployment
 
-`ECS Fargate` • `ECR` • `ALB` • `S3` • `CloudFront` • `ElastiCache` • `Secrets Manager` • `Cloud Map` • `IAM` • `CloudWatch`
+`ECS Fargate` • `ECR` • `Application Load Balancer` • `S3` • `CloudFront` • `ElastiCache` • `Secrets Manager` • `Cloud Map` • `IAM` • `CloudWatch`
 
-### 🔄 CI/CD
+### CI/CD
 
-```text
-GitHub Actions
-      ↓
-Build
-      ↓
-Docker Images
-      ↓
-Amazon ECR
-      ↓
-Amazon ECS
-      ↓
-S3 + CloudFront
-```
+GitHub Actions automates the deployment workflow:
 
-The project documents five ECS Fargate backend services and an eight-specialist-agent LangGraph architecture.
+`Build → Docker Images → ECR → ECS Deployment → Frontend Build → S3 → CloudFront`
 
-🔗 **[View GitHub Repository](https://github.com/aamir490/Use-Case-24-NovaMind-AI-LangGraph-Multi-Agent-AWS-Platform)**
+### Architecture Highlights
+
+* 5 independent backend services running on ECS Fargate
+* LangGraph-based agent orchestration
+* 8 specialized AI agents
+* Containerized backend architecture
+* Redis-based application capabilities
+* Vector search using Qdrant
+* External MongoDB Atlas database
+* Secure secrets management using AWS Secrets Manager
+* CloudFront-based frontend delivery
+* CI/CD using GitHub Actions
+
+🔗 **Repository:**
+https://github.com/aamir490/Use-Case-24-NovaMind-AI-LangGraph-Multi-Agent-AWS-Platform
+
+🌐 **Live Demo:**
+https://d8au5xi32kvkz.cloudfront.net
 
 ---
 
-## 🧾 02 — NovaMind AI: Invoice Intelligence Platform
+## 🧾 2. NovaMind AI — Invoice Intelligence Platform
 
-An **AI-powered serverless invoice processing platform** built on AWS for document extraction, anomaly detection, risk scoring, and analytics.
+An AI-powered **serverless invoice processing platform** built on AWS.
 
-The project uses an event-driven architecture with AWS services for document processing, AI analysis, persistence, notifications, and monitoring.
+The system processes invoice documents, extracts structured information, performs AI-powered anomaly detection, calculates risk scores, and presents the results through a React dashboard.
 
-### ✨ Key Capabilities
+### Key Capabilities
 
 * 📄 Invoice document processing
 * 🔍 OCR and structured data extraction
 * 🤖 AI-powered anomaly detection
 * 📊 Risk scoring
 * 📈 Analytics dashboard
-* 🔐 Authentication
+* 🔐 Cognito authentication
 * 🚨 High-risk invoice notifications
-* ⚡ Event-driven processing
+* ⚡ Event-driven serverless processing
 
-### 🧩 Technology
+### Technology
 
 `React` • `TypeScript` • `Python` • `Vite` • `Tailwind CSS` • `Zustand` • `React Query`
 
-### ☁️ AWS Architecture
+### AWS Architecture
 
-```text
-Amazon S3
-    ↓
-Amazon SQS
-    ↓
-AWS Lambda
-    ↓
-AWS Step Functions
-    ↓
-Amazon Textract
-    ↓
-Amazon Bedrock
-    ↓
-Amazon DynamoDB
-```
+`Amazon S3 → Amazon SQS → AWS Lambda → AWS Step Functions → Amazon Textract → Amazon Bedrock → Amazon DynamoDB`
 
-Additional AWS services include CloudFront, API Gateway, Cognito, EventBridge, SNS, CloudWatch, and X-Ray.
+### Additional AWS Services
 
-### 🏗️ Infrastructure
+`CloudFront` • `API Gateway` • `Amazon Cognito` • `EventBridge` • `SNS` • `CloudWatch` • `X-Ray`
+
+### Infrastructure & CI/CD
 
 `AWS CDK v2` • `TypeScript` • `GitHub Actions` • `OIDC`
 
-🔗 **[View GitHub Repository](https://github.com/aamir490/Use-Case-14-NovaMind-AI-Invoice-Intelligence-Platform-AWS-CloudFront)**
+🔗 **Repository:**
+https://github.com/aamir490/Use-Case-14-NovaMind-AI-Invoice-Intelligence-Platform-AWS-CloudFront
 
 ---
 
-## 📈 03 — NovaMind: Real-Time AI Sentiment Analytics
+## 📈 3. NovaMind — Real-Time AI Sentiment Analytics
 
-An end-to-end **real-time AI analytics platform on AWS** using streaming data, Apache Flink, Amazon Bedrock/Nova, OpenSearch Serverless, and Streamlit.
+An end-to-end **real-time AI analytics platform** on AWS using streaming data, Apache Flink, Amazon Bedrock/Nova AI models, and OpenSearch Serverless.
 
-The project processes independent movie-review and financial-commentary streams and enriches records with AI-powered sentiment classification.
+The platform processes independent movie-review and financial-commentary streams and enriches records with AI-powered sentiment classification.
 
-### ✨ Key Capabilities
+### Key Capabilities
 
 * ⚡ Real-time streaming analytics
 * 🤖 AI-powered sentiment classification
@@ -268,31 +205,22 @@ The project processes independent movie-review and financial-commentary streams 
 * 📈 Sentiment trends and distributions
 * 🎯 AI confidence scoring
 * 🔎 OpenSearch analytics
-* ☁️ Infrastructure as Code
+* ☁️ Infrastructure as Code with CloudFormation
 
-### 🧩 Technology
+### Technology
 
 `Python` • `Apache Flink` • `Streamlit` • `boto3` • `AWS CloudFormation`
 
-### ☁️ AWS Architecture
+### AWS Architecture
 
-```text
-Data Sources
-    ↓
-Amazon Kinesis
-    ↓
-Amazon Managed Service for Apache Flink
-    ↓
-Amazon Bedrock / Nova
-    ↓
-Amazon OpenSearch Serverless
-    ↓
-Streamlit Dashboard
-```
+`EC2 → Amazon Kinesis → Amazon Managed Service for Apache Flink → Amazon Bedrock / Nova Lite → CloudWatch → Lambda → OpenSearch Serverless → Streamlit`
 
-Additional services include EC2, Lambda, CloudWatch, IAM, SSM, SNS, and VPC.
+### Additional AWS Services
 
-🔗 **[View GitHub Repository](https://github.com/aamir490/Use--Case--17--NovaMind-Real-Time-AI-Sentiment-Analytics-CloudFormation)**
+`IAM` • `SSM` • `SNS` • `VPC`
+
+🔗 **Repository:**
+https://github.com/aamir490/Use--Case--17--NovaMind-Real-Time-AI-Sentiment-Analytics-CloudFormation
 
 ---
 
@@ -313,72 +241,63 @@ I'm continuously improving my skills in:
 
 # 🧰 Core Technology Stack
 
-| Area                       | Technologies                                |
-| -------------------------- | ------------------------------------------- |
-| **Generative AI**          | LLMs, Agentic AI, RAG, LangGraph, LangChain |
-| **Programming**            | Python, JavaScript, SQL                     |
-| **Frontend**               | React, Vite, Tailwind CSS                   |
-| **Backend**                | Node.js, Express                            |
-| **Cloud**                  | AWS                                         |
-| **Containers**             | Docker, Kubernetes                          |
-| **DevOps**                 | Jenkins, Ansible, GitHub Actions, CI/CD     |
-| **AWS Compute**            | ECS, Fargate, Lambda                        |
-| **AWS AI/ML**              | Bedrock, Textract                           |
-| **AWS Data**               | S3, DynamoDB, Kinesis                       |
-| **Streaming**              | Apache Flink                                |
-| **Databases**              | MongoDB, Redis, DynamoDB                    |
-| **Search / Vector**        | OpenSearch, Qdrant                          |
-| **Infrastructure as Code** | CloudFormation, AWS CDK                     |
-| **Monitoring**             | CloudWatch, X-Ray, Grafana                  |
+| Area                       | Technologies                                               |
+| -------------------------- | ---------------------------------------------------------- |
+| **Generative AI**          | LLMs, Generative AI, Agentic AI, RAG, LangGraph, LangChain |
+| **Programming**            | Python, JavaScript, TypeScript, SQL                        |
+| **Frontend**               | React, Vite, Tailwind CSS                                  |
+| **Backend**                | Node.js, Express                                           |
+| **Cloud**                  | AWS                                                        |
+| **Containers**             | Docker, Kubernetes                                         |
+| **DevOps**                 | Jenkins, Ansible, GitHub Actions, CI/CD                    |
+| **AWS Compute**            | ECS, Fargate, Lambda                                       |
+| **AWS Storage**            | S3, DynamoDB                                               |
+| **AWS AI/ML**              | Bedrock, Textract                                          |
+| **Streaming**              | Kinesis, Apache Flink                                      |
+| **Databases**              | MongoDB, Redis, DynamoDB                                   |
+| **Search / Vector**        | OpenSearch, Qdrant                                         |
+| **Infrastructure as Code** | CloudFormation, AWS CDK                                    |
+| **Monitoring**             | CloudWatch, X-Ray, Grafana                                 |
 
 ---
 
-# 🎯 Current Professional Focus
-
-I'm currently focused on growing as an **AWS Generative AI Engineer**, with particular interest in:
-
-* Building production-oriented Agentic AI systems
-* Designing multi-agent architectures
-* Developing RAG applications
-* Deploying AI applications on AWS
-* Applying MLOps practices to AI workloads
-* Building scalable cloud-native AI systems
-* Improving AI application reliability, observability, and automation
-
----
-
-# 📊 GitHub
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aamir490&show_icons=true&hide_border=true&locale=en" alt="Aamir's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aamir490&show_icons=true&theme=tokyonight&hide_border=true" alt="Aamir's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aamir490&layout=compact&theme=tokyonight&hide_border=true" alt="Aamir's Top Languages" />
 </p>
 
 ---
 
 # 🤝 Connect With Me
 
-<p align="center">
+<p align="left">
 
-<a href="https://github.com/aamir490">
-<img src="https://img.shields.io/badge/GitHub-aamir490-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-</a>
+📧 **Email:**
+[aamirimran49000@gmail.com](mailto:aamirimran49000@gmail.com)
 
-<a href="https://linkedin.com/in/aamir-imran">
-<img src="https://img.shields.io/badge/LinkedIn-Aamir%20Imran-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-</a>
+💻 **GitHub:**
+https://github.com/aamir490
 
-<a href="mailto:aamirimran49000@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+🔗 **LinkedIn:**
+https://www.linkedin.com/in/aamir-imran
 
 </p>
 
 ---
 
 <p align="center">
-  <b>AWS Generative AI Engineer • Agentic AI • MLOps • DevOps</b>
+  <strong>AWS Generative AI Engineer • Agentic AI • MLOps • DevOps</strong>
 </p>
 
 <p align="center">
   Building AI applications • Deploying on AWS • Learning continuously
+</p>
+
+<p align="center">
+  <i>Built by Aamir</i>
 </p>
