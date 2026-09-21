@@ -41,6 +41,14 @@ I enjoy turning AI concepts into **real-world, deployable applications** using c
 
 ---
 
+## 🧭 My Journey
+
+My journey started with **DevOps and Cloud**, where I built a strong foundation in infrastructure, automation, and deployment. I then expanded into **MLOps** and today I focus on building and deploying **Generative AI and Agentic AI applications on AWS**.
+
+I bring together **cloud engineering, DevOps/MLOps practices, and AI application development** to build practical, scalable, and deployment-ready AI systems.
+
+---
+
 ## 🚀 What I Build
 
 * 🤖 Agentic AI & Multi-Agent Systems
@@ -322,6 +330,20 @@ I'm continuously improving my skills in:
 | **Search / Vector**        | OpenSearch, Qdrant                          |
 | **Infrastructure as Code** | CloudFormation, AWS CDK                     |
 | **Monitoring**             | CloudWatch, X-Ray, Grafana                  |
+
+---
+
+# 🎯 Current Professional Focus
+
+I'm currently focused on growing as an **AWS Generative AI Engineer**, with particular interest in:
+
+* Building production-oriented Agentic AI systems
+* Designing multi-agent architectures
+* Developing RAG applications
+* Deploying AI applications on AWS
+* Applying MLOps practices to AI workloads
+* Building scalable cloud-native AI systems
+* Improving AI application reliability, observability, and automation
 
 ---
 
